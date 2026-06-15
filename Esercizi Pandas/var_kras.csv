@@ -1,0 +1,8 @@
+,ID,gene,pathogenicity_score,AF
+1,var2,KRAS,0.85,0.005
+3,var4,KRAS,0.95,0.0001
+5,var6,KRAS,0.82,0.009
+6,var7,KRAS,0.5,0.5
+8,var9,KRAS,0.9,0.02
+10,var11,KRAS,0.81,0.008
+11,var12,KRAS,0.79,0.001
